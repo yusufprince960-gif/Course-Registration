@@ -16,7 +16,16 @@ venv/
 *.sqlite3
 
 # Editors and operating systems
-.vscode/
+.vscode/`1
 .idea/
 .DS_Store
 Thumbs.db
+
+
+
+
+
+.env
+venv/
+.venv/
+*.db
